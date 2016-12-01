@@ -1,2 +1,3 @@
 # App4UITest
-Node js app with test script
+To be used in Functional End2End System Test
+Deploy and test a node app written in jade
