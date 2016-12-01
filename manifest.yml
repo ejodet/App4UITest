@@ -3,7 +3,6 @@ applications:
   runtime: node08
   buildpack: sdk-for-nodejs
   buildpack: nodejs_buildpack
-  buildpack: sdk-for-nodejs_v3_7-20160826-1101
   memory: 256MB
   instances: 1
   path: .
